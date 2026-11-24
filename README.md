@@ -8,7 +8,7 @@ mengonversinya jadi angka ppm, lalu menampilkannya di LCD 16x2 I2C tiap
 2 detik. Begitu angka jatuh di bawah 800 atau di atas 1200 ppm, buzzer
 berbunyi dan LED merah menyala — LED hijau menyala kalau ppm aman.
 
-Video Short (60 detik): link menyusul setelah upload
+Video Short (60 detik): https://youtube.com/shorts/P1Yzzsec6pM
 
 ## Cara kerja
 
